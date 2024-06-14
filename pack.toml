@@ -1,0 +1,13 @@
+name = "AVTM - Cruel World"
+author = "rasec"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9a0e0dfd83503b95ae582365fc01099115c7a2cc9132578b6e117f266556bb44"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

@@ -1,0 +1,13 @@
+name = "Scape And Run: Parasite Vaccine"
+filename = "srpvaccine-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7e03301f370e77254dd51f6c119185631b24909"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3501309
+project-id = 539561

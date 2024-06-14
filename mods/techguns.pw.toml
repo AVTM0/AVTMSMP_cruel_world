@@ -1,0 +1,8 @@
+name = "Techguns 2 TheSlize Fork"
+filename = "techguns-1.12.2-2.0.2.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TheSlize/Techguns2-Completion-Update/releases/download/Techguns-2/techguns-1.12.2-2.0.2.1.jar"
+hash-format = "sha1"
+hash = "6eeb9f0428152be3c7459ae6aa9a4934ebfe6ab2"
